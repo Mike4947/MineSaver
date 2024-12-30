@@ -6,6 +6,19 @@ This Python-based application allows Minecraft players to easily **backup**, **r
 
 ---
 
+⚠️ **Warning: Early Beta Version!** ⚠️
+
+This application is currently in its **early beta** phase. While we have tested the core features, **bugs and unexpected issues** may still occur. Please use the app with caution and make sure to **back up your data** before using it.
+
+💥 **Known issues**: Some functionality may not work as expected. 
+🔧 **Bug fixes**: I am alone to make those project, so bug can be long to fix.
+
+Thank you for your understanding and support as we continue to develop and improve the app! 🙏
+
+---
+
+This should clearly inform users about the app's status. Let me know if you'd like to modify anything!
+
 ## **Features** 🌟
 
 - **Backup Minecraft Worlds** 📦: Select and back up one or multiple Minecraft worlds with ease.
