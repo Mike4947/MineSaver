@@ -1,7 +1,3 @@
-Here’s the professional README file formatted for easy copying, following the style you requested:
-
----
-
 # **Minecraft World Backup & Restore Application** 🛠️🎮
 
 ## **Overview** 📝
